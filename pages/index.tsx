@@ -12,7 +12,7 @@ const Home = () => {
         <a className="font-semibold hover:underline hover:text-blue-800 " href='https://acessoonline.gcaspp.com:4441/'>ACESSO</a>
         <a className="font-semibold hover:underline hover:text-blue-800 " href='https://ssmonline.gcaspp.com:4441/'>SSM</a>
         <a className="font-semibold hover:underline hover:text-blue-800 " href='https://protocoloonline.gcaspp.com:4441/'>PROTOCOLO</a>
-        <a className="font-semibold hover:underline hover:text-blue-800 " href='https://ouvidoriaonline.gcaspp.com:4441/ouvidoriaurl.aspx?28eb8ca6-a5ee-465b-bfd7-eee87c3767a3'>OUVIDORIA</a>
+        <a className="font-semibold hover:underline hover:text-blue-800 " href='https://ouvidoriaonline.gcaspp.com:4441/wpsolicitacao.aspx?wYz6sAtyfTO6rY4ZFq3aHxY7xwVddc4LNbFBihTbeVg'>OUVIDORIA</a>
         <a className="font-semibold hover:underline hover:text-blue-800 " href='https://ouvidoriaonline.gcaspp.com:4441/login.aspx?pmapresentacao'>OUVIDORIA ADM</a>
         <a className="font-semibold hover:underline hover:text-blue-800 " href='https://servicosonline.gcaspp.com:4441/pmapresentacao'>PORTAL DO CIDADÃO</a>
         <a className="font-semibold hover:underline hover:text-blue-800 " href='https://servidoronline.gcaspp.com:4441/redirecionacliente.aspx?pmapresentacao'>PORTAL DO SERVIDOR</a>
